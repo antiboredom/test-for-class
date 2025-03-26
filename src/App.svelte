@@ -10,7 +10,7 @@
 </script>
 
 <main>
-  The count is {count}. Times 2 that is {doubled}.
+  The count is {count}. Times 2 that is {doubled}!!!!!
 
   <button onclick={increment}>Click me!</button>
 
